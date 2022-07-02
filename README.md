@@ -13,8 +13,7 @@
 [github-stars]: https://img.shields.io/github/stars/Infomaniak/kpaste
 [dependencies-image]: https://david-dm.org/infomaniak/kpaste.svg
 [dependencies-url]: https://david-dm.org/infomaniak/kpaste
-[devdependencies-image]: https://david-dm.org/infomaniak/kpaste/dev-status.svg
-[devdependencies-url]: https://david-dm.org/infomaniak/kpaste#info=devDependencies
+
 
 Infomaniak Paste is a 100% secure solution for transferring your encrypted messages to all your contacts.
 
